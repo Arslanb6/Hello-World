@@ -1,3 +1,3 @@
-# Hello-World
+# Python Exe's
 First repository,
-I am a student who's new to programming and just trying my best :)
+A collection of programs and scripts I've made using Python
